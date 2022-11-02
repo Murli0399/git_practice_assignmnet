@@ -2,8 +2,9 @@ let n=29;
 let count=0;
 
 for(let i=1;i<=n;i++){
-  if(i%n==0){
+  if(n%==0){
     count++;
+this is wrong;
   }
 }
 if(count==2){
